@@ -1,7 +1,7 @@
 # my-first-repo
 
 # My first Repository
-# A beginner Github project
+A beginner Github project
 created during the workshop
 
 ## About me
